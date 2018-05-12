@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7037
     wikipedia: http://en.wikipedia.org/wiki/George_Romanes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37759#Darwin-and-After-Darwin-Volume-2--13-Post-Darwinian-Questions--Heredity-and-Utility
 gutenberg_issued: '2011-10-15'
 gutenberg_type: Text
 identifiers:
